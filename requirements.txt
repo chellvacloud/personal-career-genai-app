@@ -1,0 +1,5 @@
+langchain==0.2.16
+langchain-community==0.2.16
+openai==1.45.0
+google-generativeai==0.8.3
+tiktoken==0.7.0   # tokenizer (used with OpenAI + LangChain)

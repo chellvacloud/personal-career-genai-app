@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configs containing secrets
+config/config.properties
+
+# Optional: Python package build artifacts
+build/
+dist/
+*.egg-info/
